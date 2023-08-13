@@ -11,7 +11,7 @@ import SwiftUI
 struct VerifiedUserApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Verified()
         }
     }
 }
